@@ -7,5 +7,5 @@
 - 🦔 Building  [DSLP](https://stealthpad.xyz/) Arweave Wallet
 
 ## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
+
 - [SleathPad](https://twitter.com/stealthpadxyz) on Twitter
