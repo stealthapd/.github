@@ -4,7 +4,7 @@
 
 ## Stealth! 🥷🏾
 
-- 🦔 Building  [DSLP](https://stealthpad.xyz/) 
+- 🦔 Building  [DSCD](https://stealthpad.xyz/) 
 
 ## Contact
 
