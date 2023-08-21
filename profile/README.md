@@ -4,7 +4,7 @@
 
 ## Stealth! 🥷🏾
 
-- 🦔 Building  [DSLP](https://stealthpad.xyz/) Arweave Wallet
+- 🦔 Building  [DSLP](https://stealthpad.xyz/) 
 
 ## Contact
 
