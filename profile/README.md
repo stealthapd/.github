@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1693099941265387520/1692568640/1500x500" alt="StealthPad" />
+  <img src="https://pbs.twimg.com/profile_banners/1693099941265387520/1692985541/1500x500" alt="StealthPad" />
 </h1>
 
 ## Stealth! 🥷🏾
