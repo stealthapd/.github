@@ -1,11 +1,11 @@
 # .github<h1 align="center">
-  <img src="https://i.ibb.co/xHrkYwd/Fee-Sharing.png" alt="StealthPad" />
+  <img src="https://pbs.twimg.com/profile_banners/1693099941265387520/1692985541/1500x500" alt="StealthPad" />
 </h1>
 
-## BlockSpot! 🥷🏾
+## Stealth! 🥷🏾
 
-- 🦔 Building  [BlockSpot](https://blockspot.tech/) 
+- 🦔 Building  [DSCD](https://stealthpad.xyz/) 
 
 ## Contact
 
-- [SleathPad](https://twitter.com/BlockSpotL22) on Twitter
+- [SleathPad](https://twitter.com/stealthpadxyz) on Twitter
